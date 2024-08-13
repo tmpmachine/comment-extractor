@@ -1,4 +1,4 @@
-# comment-extractor
+# keywords-comment-extractor
 
 ## Keywords Comments
 Keywords comments are comments that provide search terms for code to make it easier to search. For example, `# all` and `# list` below are search terms that you can use to locate the function instead of directly searching for the function name.
